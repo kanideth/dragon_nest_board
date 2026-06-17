@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
   "downloadUrl": "https://github.com/kanideth/dragon_nest_board/releases/download/1.0.1/nest_board.zip",
-  "releaseNote": "Test"
+  "releaseNote": "1.앱이 항상 맨 위에 표시되던 현상을 수정\n 2.설정창에 수정버튼 추가\n 3.업데이트 버튼 추가\n 4.화면 배경색 및 폰트색 수정"
 }
